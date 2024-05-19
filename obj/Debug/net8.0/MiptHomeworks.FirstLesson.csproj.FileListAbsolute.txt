@@ -1,0 +1,14 @@
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\bin\Debug\net8.0\MiptHomeworks.FirstLesson.exe
+F:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\bin\Debug\net8.0\MiptHomeworks.FirstLesson.deps.json
+F:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\bin\Debug\net8.0\MiptHomeworks.FirstLesson.runtimeconfig.json
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\bin\Debug\net8.0\MiptHomeworks.FirstLesson.dll
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\bin\Debug\net8.0\MiptHomeworks.FirstLesson.pdb
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.GeneratedMSBuildEditorConfig.editorconfig
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.AssemblyInfoInputs.cache
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.AssemblyInfo.cs
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.csproj.CoreCompileInputs.cache
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.dll
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\refint\MiptHomeworks.FirstLesson.dll
+f:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.pdb
+F:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\MiptHomeworks.FirstLesson.genruntimeconfig.cache
+F:\Projects\MIPT_Homeworks\MiptHomeworks\MiptHomeworks.FirstLesson\obj\Debug\net8.0\ref\MiptHomeworks.FirstLesson.dll
